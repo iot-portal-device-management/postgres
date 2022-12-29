@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/iot-portal-device-management/api">
+  <a href="https://github.com/iot-portal-device-management/postgres">
     IoT Portal Device Management Postgres Docker Image
   </a>
 </h1>
@@ -13,5 +13,4 @@ working on this project. Please commit any pull requests against the `main` bran
 
 ## 📄 License
 
-This project is open-sourced software licensed under the
-[GPL-2.0-or-later license](https://spdx.org/licenses/GPL-2.0-or-later.html).
+This project is open-sourced software licensed under the [MIT License](https://spdx.org/licenses/MIT.html).
