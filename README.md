@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/iot-portal-device-management/postgres">
-    IoT Portal Device Management Postgres Docker Image
+    Postgres Docker Image for IoT Portal Device Management
   </a>
 </h1>
 
